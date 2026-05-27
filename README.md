@@ -13,7 +13,7 @@
 ## 🔥 About Me:
 - 🔭 I’m currently working on [KIRA](https://github.com/gupta-v/KIRA)
 - 🌱 I’m currently exploring **LlamaIndex** and **Model Context Protocols (MCPs)** for building robust LLM-powered apps  
-- 👨‍💻 Explore all my projects and achievements on my [**Portfolio Website**](https://portfolio-website-gupta-v.onrender.com/)
+- 👨‍💻 Explore all my projects and achievements on my [**Portfolio Website**](https://vaibhavgupta-dev.vercel.app/)
 - 📫 Reach me at: **vaibhavdgupta18@gmail.com**
 - 📄 [My Resume](https://github.com/gupta-v/gupta-v/raw/main/Vaibhav'sCV.pdf)
 
