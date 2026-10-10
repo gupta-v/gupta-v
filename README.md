@@ -116,7 +116,7 @@
   <a href="mailto:vaibhavdgupta18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://portfolio-website-gupta-v.onrender.com/" target="blank">
+  <a href="https://vaibhavgupta-dev.vercel.app" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Website"/>
   </a>
 </p>
